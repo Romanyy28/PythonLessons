@@ -1,0 +1,2 @@
+from printing_functions import display_message
+display_message()
